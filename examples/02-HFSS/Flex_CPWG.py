@@ -220,6 +220,6 @@ my_plot.plot(
 # Analyze and release
 # ~~~~~~~~~~~~~~~~~~~~
 # Uncomment the ``hfss.analyze_nominal`` command if you want to analyze the
-# model and release AEDT.
+# model and release AEDT. this is a test
 
 hfss.release_desktop()
