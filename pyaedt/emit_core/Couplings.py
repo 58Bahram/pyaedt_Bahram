@@ -76,7 +76,7 @@ class CouplingsEmit(object):
     @property
     def cad_nodes(self):
         """List the CAD nodes.
-        Returns
+        Returns a new
         -------
         dict
         """
